@@ -6,10 +6,7 @@ Este é um exemplo de uma aplicação web para um cardápio digital, desenvolvid
 
 - Visualizar alimentos disponíveis no cardápio.
 - Adicionar novos alimentos ao cardápio.
-
-## Arquitetura
-
-A arquitetura da aplicação é baseada em componentes React e segue o padrão de comunicação com o servidor Spring para obter e salvar dados.
+- Atualização automática da lista conforme cada item é cadastrado.
 
 ## Repositórios complementares
 
