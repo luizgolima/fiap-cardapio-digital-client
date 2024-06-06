@@ -13,6 +13,9 @@ Este é um exemplo de uma aplicação web para um cardápio digital, desenvolvid
 - [Repositório do servidor Spring](https://github.com/luizgolima/fiap-cardapio-digital-server)
 - [Repositório do cliente iOS](https://github.com/luizgolima/fiap-cardapio-digital-ios)
 
+## Aplicações no ar (deploy)
+- [Frontend](https://fiap-cardapio-digital-client.onrender.com)
+- [Backend](https://fiap-cardapio-digital-server.onrender.com/food)
 ## Requisitos
 
 - Node.js
